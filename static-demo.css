@@ -1,0 +1,2 @@
+.sdm-toast{position:fixed;left:50%;bottom:28px;transform:translate(-50%,12px);z-index:99999;padding:10px 16px;border-radius:10px;background:rgba(20,20,24,.92);color:#fff;font:14px/1.5 -apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-shadow:0 6px 24px rgba(0,0,0,.25);opacity:0;pointer-events:none;transition:opacity .2s,transform .2s;max-width:calc(100vw - 32px);text-align:center}
+.sdm-toast.on{opacity:1;transform:translate(-50%,0)}
